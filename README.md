@@ -46,6 +46,35 @@ Talks:
 
 Meetup: [#59](https://www.meetup.com/golang-warsaw/events/301829415)
 
+## Golang Warsaw #58 (Jun 12, 2024)
+
+Talks:
+
+1. Multi-cloud infrastructure provisioning with Kubernetes Operator - Szymon Sapkowski, Jakub Stefaniuk)
+2. Pushing boundaries: how to fit Snowflake in a cloud? - Wojciech Walczak
+3. Working for Silicon Valley from the Polish perspective - Adam Sznajder
+4. uGCBI - minimalistic, secure, declarative and distroless container toolset - Mateusz Hazy
+
+Meetup: [#58](www.meetup.com/golang-warsaw/events/301275445/)
+
+## Golang Warsaw #57 (Apr 25, 2024)
+
+Talks:
+
+1. Killing the legacy and other CQRS stories — Miłosz Smółka
+2. Gopher Toolbox: Techniques and Tools Every Senior Go Developer Should Understand — Robert Laszczak
+
+Meetup: [#57](www.meetup.com/golang-warsaw/events/299915727/)
+
+## Golang Warsaw #56 (Feb 28, 2024)
+
+Talks:
+
+1. Secure access to EC2 (for developers) — Kuba Wołynko (Redhat)
+2. Building web apps with vulnerabilities — Arkadiusz Noster (Juni)
+
+Meetup: [#56](https://www.meetup.com/golang-warsaw/events/298525806/)
+
 ## Golang Warsaw #55 (Jan 24, 2024)
 
 Talks:
