@@ -7,6 +7,33 @@ Want to be a speaker? Have an idea for building our community? Let us know! Chec
 <img src=".organizers/logo/gofersyrenka.png" alt="gofersyrenka" width="150p"/><br />
 <small>Logo by <i>mlemkat</i></small>
 
+## Golang Warsaw #62 (Apr 9, 2025)
+
+Talks:
+
+1. Concurrency Patterns in Go - Artsiom Bukhautsou (Nord Security)
+2. Observability Pipeline Query Languages: Present and the Future - Jacek Migdal (Quesma)
+
+Meetup: [#62](www.meetup.com/golang-warsaw/events/306536232/)
+
+## Golang Warsaw #61 (Feb 18, 2025)
+
+Talks:
+
+1. Evolution of HTML rendering - Gabriel Karczewski
+2. Go compile time auto instrumentation - Przemyslaw Delewski
+
+Meetup: [#61](https://www.meetup.com/golang-warsaw/events/305717172/)
+
+## Golang Warsaw #60 (Nov 19, 2024)
+
+Talks:
+
+1. Optimising cloud services at scale - Paweł Obrępalski
+2. Building Fine-Grained Authorization in Your Go Application - Michał Golinski (Spacelfit)
+
+Meetup: [#60](https://www.meetup.com/golang-warsaw/events/304289349/)
+
 ## Golang Warsaw #59 (July 10, 2024)
 
 Talks:
@@ -23,13 +50,13 @@ Meetup: [#59](https://www.meetup.com/golang-warsaw/events/301829415)
 
 Talks:
 
-1. x
+1. Best practices for building Kubernetes Operators — Patryk Wasielewski (AWS)
 
-2. y
+2. HTTP Proxying 101 and lessons learned from building a proxy in Go — Michał Matczuk (SauceLabs)
 
 3. [intro](./2024/2024_55_Meetup_Warsaw/intro/golang-warsaw-55.pdf) ([pptx](./2024/2024_55_Meetup_Warsaw/intro/golang-warsaw-55.pptx))
 
-Meetup: x ([y]())
+Meetup: [#55](www.meetup.com/golang-warsaw/events/298288235/)
 
 ## Golang Warsaw #54 (Oct 26, 2023)
 
