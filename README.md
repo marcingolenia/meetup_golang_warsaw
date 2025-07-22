@@ -530,3 +530,7 @@ Talks:
 0. [Intro](/2018/2018_19_Meetup/Intro/index.pdf) ([html/revealjs](/2018/2018_19_Meetup/Intro))
 
 Meetup.com: [#19](https://www.meetup.com/Golang-Warsaw/events/254200354/)
+
+## Before
+
+The first meetup was held on December 8, 2014 - [#1](www.meetup.com/golang-warsaw/events/216150702/)
