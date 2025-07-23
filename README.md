@@ -7,6 +7,15 @@ Want to be a speaker? Have an idea for building our community? Let us know! Chec
 <img src=".organizers/logo/gofersyrenka.png" alt="gofersyrenka" width="150p"/><br />
 <small>Logo by <i>mlemkat</i></small>
 
+## Golang Warsaw #63 (July 23, 2025)
+
+Talks:
+
+1. Stateless Kafka Brokers - Jan Siekierski
+2. TMX: Webapps for tired engineers - Marcin Golenia (Snowflake/Wolontariusz Warszawskiego Banku Żywności)
+
+Meetup: [#63](https://www.meetup.com/golang-warsaw/events/308309387/)
+
 ## Golang Warsaw #62 (Apr 9, 2025)
 
 Talks:
