@@ -12,7 +12,7 @@ Want to be a speaker? Have an idea for building our community? Let us know! Chec
 Talks:
 
 1. Stateless Kafka Brokers - Jan Siekierski
-2. TMX: Webapps for tired engineers - Marcin Golenia (Snowflake/Wolontariusz Warszawskiego Banku Żywności)
+2. HTMX: Webapps for tired engineers - Marcin Golenia (Snowflake/Wolontariusz Warszawskiego Banku Żywności)
 
 Meetup: [#63](https://www.meetup.com/golang-warsaw/events/308309387/)
 
